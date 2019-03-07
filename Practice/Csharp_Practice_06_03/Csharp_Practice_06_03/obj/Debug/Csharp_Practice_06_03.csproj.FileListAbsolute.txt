@@ -1,0 +1,6 @@
+D:\Harish\Training\Practice\Csharp_Practice_06_03\Csharp_Practice_06_03\bin\Debug\Csharp_Practice_06_03.exe.config
+D:\Harish\Training\Practice\Csharp_Practice_06_03\Csharp_Practice_06_03\bin\Debug\Csharp_Practice_06_03.exe
+D:\Harish\Training\Practice\Csharp_Practice_06_03\Csharp_Practice_06_03\bin\Debug\Csharp_Practice_06_03.pdb
+D:\Harish\Training\Practice\Csharp_Practice_06_03\Csharp_Practice_06_03\obj\Debug\Csharp_Practice_06_03.csprojResolveAssemblyReference.cache
+D:\Harish\Training\Practice\Csharp_Practice_06_03\Csharp_Practice_06_03\obj\Debug\Csharp_Practice_06_03.exe
+D:\Harish\Training\Practice\Csharp_Practice_06_03\Csharp_Practice_06_03\obj\Debug\Csharp_Practice_06_03.pdb

@@ -1,0 +1,6 @@
+D:\Harish\Training\Assignment\Enums_exercise\Enums_exercise\bin\Debug\Enums_exercise.exe.config
+D:\Harish\Training\Assignment\Enums_exercise\Enums_exercise\bin\Debug\Enums_exercise.exe
+D:\Harish\Training\Assignment\Enums_exercise\Enums_exercise\bin\Debug\Enums_exercise.pdb
+D:\Harish\Training\Assignment\Enums_exercise\Enums_exercise\obj\Debug\Enums_exercise.csprojResolveAssemblyReference.cache
+D:\Harish\Training\Assignment\Enums_exercise\Enums_exercise\obj\Debug\Enums_exercise.exe
+D:\Harish\Training\Assignment\Enums_exercise\Enums_exercise\obj\Debug\Enums_exercise.pdb

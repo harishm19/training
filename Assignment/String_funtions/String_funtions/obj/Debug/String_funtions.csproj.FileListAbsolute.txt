@@ -1,0 +1,6 @@
+D:\Harish\Training\Assignment\String_funtions\String_funtions\bin\Debug\String_funtions.exe.config
+D:\Harish\Training\Assignment\String_funtions\String_funtions\obj\Debug\String_funtions.csprojResolveAssemblyReference.cache
+D:\Harish\Training\Assignment\String_funtions\String_funtions\bin\Debug\String_funtions.exe
+D:\Harish\Training\Assignment\String_funtions\String_funtions\bin\Debug\String_funtions.pdb
+D:\Harish\Training\Assignment\String_funtions\String_funtions\obj\Debug\String_funtions.exe
+D:\Harish\Training\Assignment\String_funtions\String_funtions\obj\Debug\String_funtions.pdb

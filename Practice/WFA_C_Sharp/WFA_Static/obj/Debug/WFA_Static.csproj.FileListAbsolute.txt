@@ -1,0 +1,9 @@
+D:\Harish\Training\Practice\WFA_C_Sharp\WFA_Static\bin\Debug\WFA_Static.exe.config
+D:\Harish\Training\Practice\WFA_C_Sharp\WFA_Static\bin\Debug\WFA_Static.exe
+D:\Harish\Training\Practice\WFA_C_Sharp\WFA_Static\bin\Debug\WFA_Static.pdb
+D:\Harish\Training\Practice\WFA_C_Sharp\WFA_Static\obj\Debug\WFA_Static.csprojResolveAssemblyReference.cache
+D:\Harish\Training\Practice\WFA_C_Sharp\WFA_Static\obj\Debug\WFA_Static.Form1.resources
+D:\Harish\Training\Practice\WFA_C_Sharp\WFA_Static\obj\Debug\WFA_Static.Properties.Resources.resources
+D:\Harish\Training\Practice\WFA_C_Sharp\WFA_Static\obj\Debug\WFA_Static.csproj.GenerateResource.Cache
+D:\Harish\Training\Practice\WFA_C_Sharp\WFA_Static\obj\Debug\WFA_Static.exe
+D:\Harish\Training\Practice\WFA_C_Sharp\WFA_Static\obj\Debug\WFA_Static.pdb

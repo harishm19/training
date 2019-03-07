@@ -1,0 +1,5 @@
+D:\Harish\Training\Assignment\Noof_words_string\Noof_words_string\bin\Debug\Noof_words_string.exe.config
+D:\Harish\Training\Assignment\Noof_words_string\Noof_words_string\bin\Debug\Noof_words_string.exe
+D:\Harish\Training\Assignment\Noof_words_string\Noof_words_string\bin\Debug\Noof_words_string.pdb
+D:\Harish\Training\Assignment\Noof_words_string\Noof_words_string\obj\Debug\Noof_words_string.exe
+D:\Harish\Training\Assignment\Noof_words_string\Noof_words_string\obj\Debug\Noof_words_string.pdb

@@ -1,0 +1,5 @@
+D:\Harish\Training\Assignment\sortbyname\sortbyname\bin\Debug\sortbyname.exe.config
+D:\Harish\Training\Assignment\sortbyname\sortbyname\bin\Debug\sortbyname.exe
+D:\Harish\Training\Assignment\sortbyname\sortbyname\bin\Debug\sortbyname.pdb
+D:\Harish\Training\Assignment\sortbyname\sortbyname\obj\Debug\sortbyname.exe
+D:\Harish\Training\Assignment\sortbyname\sortbyname\obj\Debug\sortbyname.pdb

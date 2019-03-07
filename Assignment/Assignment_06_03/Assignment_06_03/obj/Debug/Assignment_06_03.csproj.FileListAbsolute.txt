@@ -1,0 +1,6 @@
+D:\Harish\Training\Assignment\Assignment_06_03\Assignment_06_03\bin\Debug\Assignment_06_03.exe.config
+D:\Harish\Training\Assignment\Assignment_06_03\Assignment_06_03\bin\Debug\Assignment_06_03.exe
+D:\Harish\Training\Assignment\Assignment_06_03\Assignment_06_03\bin\Debug\Assignment_06_03.pdb
+D:\Harish\Training\Assignment\Assignment_06_03\Assignment_06_03\obj\Debug\Assignment_06_03.csprojResolveAssemblyReference.cache
+D:\Harish\Training\Assignment\Assignment_06_03\Assignment_06_03\obj\Debug\Assignment_06_03.exe
+D:\Harish\Training\Assignment\Assignment_06_03\Assignment_06_03\obj\Debug\Assignment_06_03.pdb

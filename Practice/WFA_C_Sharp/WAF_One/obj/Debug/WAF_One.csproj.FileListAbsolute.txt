@@ -1,0 +1,9 @@
+D:\Harish\Training\Practice\WFA_C_Sharp\WAF_One\bin\Debug\WAF_One.exe.config
+D:\Harish\Training\Practice\WFA_C_Sharp\WAF_One\bin\Debug\WAF_One.exe
+D:\Harish\Training\Practice\WFA_C_Sharp\WAF_One\bin\Debug\WAF_One.pdb
+D:\Harish\Training\Practice\WFA_C_Sharp\WAF_One\obj\Debug\WAF_One.Form1.resources
+D:\Harish\Training\Practice\WFA_C_Sharp\WAF_One\obj\Debug\WAF_One.Properties.Resources.resources
+D:\Harish\Training\Practice\WFA_C_Sharp\WAF_One\obj\Debug\WAF_One.csproj.GenerateResource.Cache
+D:\Harish\Training\Practice\WFA_C_Sharp\WAF_One\obj\Debug\WAF_One.exe
+D:\Harish\Training\Practice\WFA_C_Sharp\WAF_One\obj\Debug\WAF_One.pdb
+D:\Harish\Training\Practice\WFA_C_Sharp\WAF_One\obj\Debug\WAF_One.csprojResolveAssemblyReference.cache
